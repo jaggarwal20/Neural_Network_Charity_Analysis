@@ -44,7 +44,7 @@ This model did not provide the target model performance of 75%.
 1st Attempt: 
 In this model the accuracy was 67%, which is less than the target.  In this model the hidden layers had 8 and 5 neurons, and the activate methods were kept the same as ReLU and Sigmoid. 
 
-![alt text](Resources/Trial2_1.png) 
+![alt text](Resources/Trial_2_1.png) 
 
 2nd Attempt: 
 In attempt to improve the network hidden networks are added and the neurons were adjusted. There are 3 hidden layers and the neurons are respectively 126, 84, and 42. In this attempt the accuracy decreased to 61% due to overfitting. 
